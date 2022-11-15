@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Blogapp/static/css/main.28ec96c1.css",
-    "main.js": "/Blogapp/static/js/main.ec58eeb1.js",
-    "static/media/2.jpg": "/Blogapp/static/media/2.6b72affcee25fc088669.jpg",
-    "static/media/3.jpg": "/Blogapp/static/media/3.35e39ec9c726256c0952.jpg",
-    "static/media/user.jpg": "/Blogapp/static/media/user.4f3fa1d38ad2515ca6a6.jpg",
-    "static/media/4.jpg": "/Blogapp/static/media/4.752ecb0149e6c9884dd5.jpg",
-    "static/media/6.jpg": "/Blogapp/static/media/6.5f9b29cc7ef39870203d.jpg",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Blogapp/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/Blogapp/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Blogapp/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Blogapp/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Blogapp/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/logo.png": "/Blogapp/static/media/logo.341a016528accacef5a6.png",
-    "static/media/post.jpg": "/Blogapp/static/media/post.464fb33a49c7e1a95a79.jpg",
-    "service-worker.js": "/Blogapp/service-worker.js",
-    "index.html": "/Blogapp/index.html",
-    "main.28ec96c1.css.map": "/Blogapp/static/css/main.28ec96c1.css.map",
-    "main.ec58eeb1.js.map": "/Blogapp/static/js/main.ec58eeb1.js.map"
+    "main.css": "/static/css/main.ec0c6336.css",
+    "main.js": "/static/js/main.3e1dec38.js",
+    "static/media/2.jpg": "/static/media/2.6b72affcee25fc088669.jpg",
+    "static/media/3.jpg": "/static/media/3.35e39ec9c726256c0952.jpg",
+    "static/media/user.jpg": "/static/media/user.4f3fa1d38ad2515ca6a6.jpg",
+    "static/media/4.jpg": "/static/media/4.752ecb0149e6c9884dd5.jpg",
+    "static/media/6.jpg": "/static/media/6.5f9b29cc7ef39870203d.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/logo.png": "/static/media/logo.341a016528accacef5a6.png",
+    "static/media/post.jpg": "/static/media/post.464fb33a49c7e1a95a79.jpg",
+    "service-worker.js": "/service-worker.js",
+    "index.html": "/index.html",
+    "main.ec0c6336.css.map": "/static/css/main.ec0c6336.css.map",
+    "main.3e1dec38.js.map": "/static/js/main.3e1dec38.js.map"
   },
   "entrypoints": [
-    "static/css/main.28ec96c1.css",
-    "static/js/main.ec58eeb1.js"
+    "static/css/main.ec0c6336.css",
+    "static/js/main.3e1dec38.js"
   ]
 }
