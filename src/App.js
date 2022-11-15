@@ -27,7 +27,7 @@ export default function App() {
       <ThemeProvider theme={theme}>
         <GlobalStyles />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/Blogapp" element={<Home />} />
           <Route path="*" element={<Error404 />} />
         </Routes>
       </ThemeProvider>
